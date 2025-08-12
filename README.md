@@ -1,1 +1,2 @@
 # EqualNet
+EqualNet, her bireyin doğuştan sahip olduğu ve kimseye devredemeyeceği, evrensel olan insan haklarını savunmayı amaçladığımız bir websitesidir. Amacımız insan haklarına dair bilinci artırmak, bireylerin haklarını öğrenmesi, cinsiyet eşitliğini sağlamak, hakların savunulmasını ve paylasılmasını kolaylastırmaktır. Irk, dil, din, cinsiyet, yönelim ayrımı gözetmeksizin insanları savunmamızı sağlar. Toplumun refah seviyesini artırır.
